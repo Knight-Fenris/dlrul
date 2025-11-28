@@ -1,0 +1,6 @@
+*.keras
+checkpoints
+data_set
+keras*
+models
+oldcode
